@@ -26,6 +26,8 @@ creator:
     - http://de.wikipedia.org/wiki/Richard_von_Krafft-Ebing
     - http://en.wikipedia.org/wiki/Richard_von_Krafft-Ebing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24766#Psychopathia-Sexualisavec-recherches-sp-ciales-sur-l-inversion-sexuelle
 gutenberg_bookshelf:
 - FR Sciences et Techniques
 - Sociology
