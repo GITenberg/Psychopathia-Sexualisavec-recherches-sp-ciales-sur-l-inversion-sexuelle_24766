@@ -1,0 +1,46 @@
+_repo: Psychopathia-Sexualisavec-recherches-sp-ciales-sur-l-inversion-sexuelle_24766
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Laurent, Emile
+    alias: Laurent, Emile Ghislain
+    birthdate: 1861
+    deathdate: 1904
+    gutenberg_agent_id: '26722'
+    url: http://www.gutenberg.org/2009/agents/26722
+  - agent_name: Csapo, Sigismond
+    gutenberg_agent_id: '26723'
+    url: http://www.gutenberg.org/2009/agents/26723
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Krafft-Ebing, R. von (Richard)
+    alias: Krafft-Ebing, Richard von
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '26724'
+    url: http://www.gutenberg.org/2009/agents/26724
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Richard_von_Krafft-Ebing
+    - http://en.wikipedia.org/wiki/Richard_von_Krafft-Ebing
+description: ''
+gutenberg_bookshelf:
+- FR Sciences et Techniques
+- Sociology
+gutenberg_issued: '2008-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24766'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paraphilias'
+- !lcc 'HQ'
+title: 'Psychopathia Sexualis
+
+  avec recherches spéciales sur l''inversion sexuelle'
+url: http://www.gutenberg.org/ebooks/24766
